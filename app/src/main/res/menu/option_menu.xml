@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+        <item
+            android:id="@+id/menu1"
+            android:icon="@drawable/baseline_add_location_alt_24"
+            android:title="@string/maps"
+            app:showAsAction="ifRoom" />
+        <item
+            android:id="@+id/floatingActionButton2"
+            android:icon="@drawable/baseline_arrow_circle_left_24"
+            android:title="@string/keluar"
+            app:showAsAction="ifRoom" />
+</menu>

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">LoginWithAnimation</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Ceritakan yang anda alami sekarang dalam cerita</string>
+    <string name="title_welcome_page">Selamat datang di Story App!</string>
+    <string name="title_signup_page">Silahkan isi data dirimu di bawah ini ya</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Masukkan datamu dulu ya</string>
+    <string name="title_login_page">Tidak sabar untuk bercerita?</string>
+    <string name="name">Nama</string>
+    <string name="errorPass">Password must be at least 8 characters long</string>
+    <string name="upload">Upload</string>
+    <string name="gallery">Galery</string>
+    <string name="camera">Camera</string>
+    <string name="descText">Description</string>
+    <string name="empty_image_warning">Silakan masukkan berkas gambar terlebih dahulu.</string>
+    <string name="keluar">Keluar</string>
+    <string name="maps">Maps</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+
+</resources>
